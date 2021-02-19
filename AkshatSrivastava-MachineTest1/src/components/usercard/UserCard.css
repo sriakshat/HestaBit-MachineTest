@@ -1,0 +1,27 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+.col-md-4.user{
+    border: 2px solid #333;
+    margin-top: 20px;
+    width: 404px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-right: 3%;
+}
+
+.center {
+    margin: 50px 0px 0px 610px;
+    position: inherit;
+  } 
+
+ .button{
+     cursor: pointer;
+ }
+
+ .bold{
+     font-weight: 900;
+ }
